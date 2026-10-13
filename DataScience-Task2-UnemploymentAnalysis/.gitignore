@@ -1,0 +1,17 @@
+# Dataset is not bundled; check source terms before redistribution
+dataset/*.csv
+dataset/*.xlsx
+dataset/*.xls
+
+# Python/Jupyter temporary files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
